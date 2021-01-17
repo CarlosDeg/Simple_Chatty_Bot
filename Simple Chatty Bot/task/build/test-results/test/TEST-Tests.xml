@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-11T00:53:12" hostname="STIKEROOX" time="0.212">
+  <properties/>
+  <testcase name="start" classname="Tests" time="0.212"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+> John
+Hello! My name is Aid.
+I was created in 2018.
+Please, remind me your name.
+What a great name you haveJohn!
+?[1;31m
+Start test 2?[0m
+> Nick
+Hello! My name is Aid.
+I was created in 2018.
+Please, remind me your name.
+What a great name you haveNick!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
